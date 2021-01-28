@@ -36,4 +36,4 @@ This code shows use of file handling in C++. In this program user can create, mo
 
 # Note:
 You may face problem while running these program.
-Some programs are run using visual studio code which uses Gcc compiler where as some run in Turbo c++. First see the codes of the program is header file is #include<iostream.h> then run it in Turbo C++ else if #include<iostream> then run in Gcc compiler.
+Some programs are run using visual studio code which uses Gcc compiler where as some run in Turbo c++. First see the codes of the program is header file is #include<iostream.h> then run it in Turbo C++ else run in visual studio code which uses Gcc compiler.
