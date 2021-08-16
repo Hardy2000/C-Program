@@ -13,7 +13,7 @@ This code solves 0/1 knapsack problem using dynamic programming.
 # Fractional Knapsack
 This code solves above algorithm using greedy approach.
 
-# BINARYSE
+# BINARY SEARCH
 Simple Binary Search in an array.
 
 # Kruskal Algorithm
@@ -23,7 +23,7 @@ Kruskal Algorithm to find a minimum spanning tree for a weighted undirected grap
 Prim's Algorithm to find a minimum spanning tree for a weighted undirected graph using greedy approach.
 
 # QUICKSORT
-Selection Sort Algorithm in an array.
+Quick Sort Algorithm in an array.
 
 # SelectionSort
 Selection Sort Algorithm in an array.
